@@ -10,7 +10,7 @@ public class Testtt {
     
         System.out.println("123");
         //qwe
-        String b;
+        String aa;
     }
     
 }
